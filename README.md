@@ -8,14 +8,12 @@
 - I'm currently learning the basics of Design and Figma 🎨
 - I'm currently looking for my next challenge 🚀
 
-<br/>
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://lloydc.github.io/)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lloyd-chambrier/)
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
