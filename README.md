@@ -4,9 +4,9 @@
 
 ## I'm a Developer and a Teacher!
 
-- I'm working on my own projects 🛠️
-- I'm currently learning the basics of Design and Figma 🎨
-- I'm currently looking for my next challenge 🚀
+- I'm working for [AskPhill](https://www.askphill.com/) 🛠️
+- I'm learning the basics of Design and Figma 🎨
+- I'm building applications using Next.js 🚀
 
 ### Connect with me:
 
