@@ -4,7 +4,7 @@
 
 ## I'm a Developer and a Teacher!
 
-- I'm working for [AskPhill](https://www.askphill.com/) 🛠️
+- I'm currently working for [Ironhack](https://www.ironhack.com/) 🛠️
 - I'm learning the basics of Design and Figma 🎨
 - I'm building applications using Next.js 🚀
 
